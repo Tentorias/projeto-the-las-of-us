@@ -35,7 +35,12 @@ projeto-the-las-of-us/
 ├── github.svg
 ├── linkedin-in.svg
 ├── logo.png
-├── tlou-1.jpg ... tlou-6.jpg
+├── tlou-1.jpg
+├── tlou-2.jpg
+├── tlou-3.jpg
+├── tlou-4.jpg
+├── tlou-5.jpg
+└── tlou-6.jpg
 
 
 ## 🚀 Como Visualizar o Projeto
