@@ -21,26 +21,28 @@ Projeto front-end baseado na série *The Last of Us*, criado com HTML, CSS e Jav
 
 ## 📁 Estrutura de Pastas
 
-<code>```projeto-the-las-of-us/
-│
+```
+projeto-the-las-of-us/
 ├── index.html
 └── src/
-├── css/
-│ ├── reset.css
-│ ├── estilo.css
-│ └── responsivo.css
-├── js/
-│ └── index.js
-└── imagens/
-├── github.svg
-├── linkedin-in.svg
-├── logo.png
-├── tlou-1.jpg
-├── tlou-2.jpg
-├── tlou-3.jpg
-├── tlou-4.jpg
-├── tlou-5.jpg
-└── tlou-6.jpg ```</code>).
+    ├── css/
+    │   ├── reset.css
+    │   ├── estilo.css
+    │   └── responsivo.css
+    ├── js/
+    │   └── index.js
+    └── imagens/
+        ├── github.svg
+        ├── linkedin-in.svg
+        ├── logo.png
+        ├── tlou-1.jpg
+        ├── tlou-2.jpg
+        ├── tlou-3.jpg
+        ├── tlou-4.jpg
+        ├── tlou-5.jpg
+        └── tlou-6.jpg
+```
+
 
 
 ## 🚀 Como Visualizar o Projeto
